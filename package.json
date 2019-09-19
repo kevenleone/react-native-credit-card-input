@@ -1,5 +1,5 @@
 {
-  "name": "react-native-credit-card",
+  "name": "react-native-credit-card-flow",
   "version": "1.0.1",
   "description": "React native credit card input component",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sbycrosz/react-native-credit-card-input.git"
+    "url": "git+https://github.com/kevenleone/react-native-credit-card-input.git"
   },
   "keywords": [
     "react-native",
