@@ -1,6 +1,6 @@
 {
   "name": "react-native-credit-card-flow",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React native credit card input component",
   "main": "index.js",
   "scripts": {
